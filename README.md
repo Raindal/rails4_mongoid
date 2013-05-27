@@ -1,7 +1,7 @@
 Riding Rails 4 Along With Mongoid and Ruby 2.0
 ====================
 
-Just a demo application related to one of my blog posts: [Riding Rails 4 Along With Mongoid and Ruby 2.0](http://requiremind.com/riding-rails-4-along-with-mongoid-and-ruby-2.0).
+Just a demo application related to one of my blog posts: [Riding Rails 4 Along With Mongoid and Ruby 2.0](http://requiremind.com/riding-rails-4-along-with-mongoid-and-ruby-2-dot-0/).
 
 This shows Rails 4 playing nicely with Mongoid.
 
